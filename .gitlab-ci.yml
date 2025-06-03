@@ -1,0 +1,24 @@
+image: rocker/verse:4.5.0
+
+pages:
+  stage: deploy
+  before_script:    
+  # R Additional packages 
+  - install2.r kableExtra crosstalk DT fs
+  
+  
+  
+  script: 
+  - cd contents
+  - quarto render
+  - mkdir ../public  
+  - cp -r ./_site/* ../public/   
+  
+ 
+  artifacts:    
+    paths:
+    - public    
+   
+  only:
+  - main
+  interruptible: true

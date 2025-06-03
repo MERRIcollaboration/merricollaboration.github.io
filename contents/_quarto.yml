@@ -1,0 +1,43 @@
+project:
+  type: website   
+
+website:
+  title: "MERRI"  
+  page-navigation: true
+  favicon: logo_merri.png   
+
+  page-footer:
+    border: true
+    background: light
+    left: | 
+      Made by the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) \  
+      Source code on [![](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png){fig-alt="Git" width=55px}](https://github.com/MERRIcollaboration/merricollaboration.github.io) 
+    right: This is a website under the [CC BY international license 4.0](https://creativecommons.org/licenses/by/4.0/)                    
+
+  sidebar:   
+    title: "MERRI"
+    search: true
+    logo: logo_merri.png
+    collapse-level: 2
+    contents: 
+      - index.qmd
+      - section: "Onboarding"
+        contents:
+          - join/index.qmd
+          - terms_of_reference/index.qmd
+
+format:    
+  html:        
+    number-depth: 2 
+    email-obfuscation: javascript
+    css: styles.css
+    theme:
+      light: cosmo
+      dark: darkly   
+    code-link: true    
+    author-meta: "Center for Reproducible Science"
+    callout-appearance: default
+    callout-icon: false 
+    code-overflow: wrap   
+
+freeze: auto

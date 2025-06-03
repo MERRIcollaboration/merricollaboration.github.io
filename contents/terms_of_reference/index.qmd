@@ -1,0 +1,24 @@
+---
+#title: 'Glossary'
+title: 'Terms of Reference Draft v2.0 '
+subtitle: 'Draft v2.0'
+---
+
+::: {.content-visible when-format="html"}
+
+~[⇠ back](../)~
+
+:::
+
+# Background {.unnumbered}
+
+Metaresearch- or “research-on research”- is increasingly used to investigate and inform efforts to improve the research ecosystem including research policy, culture, practice and impact. This includes testing interventions designed to improve transparency, reproducibility, research culture and practice.  
+
+The MEta-Research for Research Improvement (MERRI) collaboration is a community of practice originating from three consortia funded under Horizon Europe Framework Programme Call: European Research Area HORIZON-WIDER A-2022-ERA-01, TOPIC ID41: Increasing the reproducibility of scientific results. Specifically, iRISE (grant agreement No 101094853), OSIRIS (grant agreement No 101094725) and TIER2 (grant agreement No 101094817).  
+
+# Vision
+TBA
+
+# Priorities
+
+TBA
