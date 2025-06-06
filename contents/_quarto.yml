@@ -21,6 +21,7 @@ website:
     collapse-level: 2
     contents: 
       - index.qmd
+      - current_members/index.qmd
       - section: "Onboarding"
         contents:
           - join/index.qmd

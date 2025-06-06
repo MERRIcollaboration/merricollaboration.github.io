@@ -7,13 +7,32 @@ date-modified: last-modified
 
 ## The MEta-Research for Research Improvement (MERRI) Collaboration
 
-TBA
-
 ::: callout-important
 ## Disclaimer 
 
 This site is under construction
 :::
 
-Enter operations here 
+The MERRI Collaboration provides a home and community for **meta-researchers** who envision a research ecosystem that upholds high quality, rigorous and transparent research within a positive research culture. We investigate methods, reporting practices, reproducibility, research(er) evaluations and incentives that can be used to improve the quality of research and research culture. Our interests span all research disciplines and methodologies. Within MERRI, we value diverse perspectives and experiences, provide mentorship for those who are new to meta-research, offer education and training, engage with stakeholders, and collaborate on projects and project ideas.
+
+ 
+The MERRI Collaboration has been founded by three consortia funded under the Horizon Europe Framework Programme. 
+
+Our activities include: 
+
+(1) Our monthly meetings, in which we discuss funding opportunities and project ideas; 
+
+(2) A mentorship program in which we link novice researchers to expert researchers, to share networks and experiences;
+
+(3) Collaboration in meta-research projects and training-on-the-project; 
+
+(4) A gateway to stakeholders; 
+
+(5) And – above all – a friendly environment to bounce ideas and get inspired. 
+
+Members may start working groups to collaborate more intense on a specific project or topic.
+
+ 
+
+If you share our vision and would like to contribute to better research and a positive research culture, then feel free to contact us and become a member of the MERRI Collaboration (see Join us!). We welcome both novice and experienced meta-researchers, from various disciplines and backgrounds, including those historically underrepresented in research. Membership is not limited to the founding consortia or other existing consortia.
  

@@ -1,6 +1,6 @@
 ---
 #title: 'Glossary'
-title: 'Terms of Reference Draft v2.0 '
+title: 'Terms of Reference'
 subtitle: 'Draft v2.0'
 ---
 
