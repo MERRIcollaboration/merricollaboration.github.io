@@ -21,7 +21,7 @@ jobs:
         run: |
           cd contents
           quarto render
-          mkdir ../docs
+          mkdir -p ../docs
           cp -r ./_site/* ../docs/
           
       - name: Disable Jekyll processing
