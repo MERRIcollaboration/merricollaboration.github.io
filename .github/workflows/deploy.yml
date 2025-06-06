@@ -21,5 +21,5 @@ jobs:
         run: |
           cd contents
           quarto render
-          mkdir ../public
-          cp -r ./_site/* ../public/
+          mkdir ../socs
+          cp -r ./_site/* ../docs/
