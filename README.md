@@ -1,5 +1,5 @@
-# Cookbook 
+# MERRI collaboration website 
 
- This is the **operations** cookbook of CRS
+ This is the **website** of the MERRI collaboration
  
- <https://crsuzh.pages.uzh.ch/cookbook/>
+ <https://merricollaboration.github.io>
