@@ -2,4 +2,4 @@
 
  This is the **website** of the MERRI collaboration
  
- <https://merricollaboration.github.io>
+ <http://merricollaboration.github.io>
