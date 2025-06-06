@@ -23,3 +23,5 @@ jobs:
           quarto render
           mkdir ../docs
           cp -r ./_site/* ../docs/
+      - name: Disable Jekyll processing
+        run: touch ../docs/.nojekyll
