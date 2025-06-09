@@ -24,8 +24,8 @@ website:
       - current_members/index.qmd
       - section: "Onboarding"
         contents:
-          - join/index.qmd
           - terms_of_reference/index.qmd
+          - join/index.qmd
 
 format:    
   html:        
