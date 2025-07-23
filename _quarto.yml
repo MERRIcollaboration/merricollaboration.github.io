@@ -1,10 +1,11 @@
 project:
   type: website   
+  output-dir: doc
 
 website:
   title: "MERRI"  
   page-navigation: true
-  favicon: logo_merri.png   
+  favicon: MERRI_logo.png   
 
   page-footer:
     border: true
@@ -17,15 +18,13 @@ website:
   sidebar:   
     title: "MERRI"
     search: true
-    logo: logo_merri.png
+    logo: MERRI_logo.png
     collapse-level: 2
     contents: 
       - index.qmd
-      - current_members/index.qmd
-      - section: "Onboarding"
-        contents:
-          - terms_of_reference/index.qmd
-          - join/index.qmd
+      - current_collaborators/index.qmd
+      - terms_of_reference/index.qmd
+      - join/index.qmd
 
 format:    
   html:        
@@ -34,7 +33,7 @@ format:
     css: styles.css
     theme:
       light: cosmo
-      dark: darkly   
+      # dark: darkly   
     code-link: true    
     author-meta: "Center for Reproducible Science"
     callout-appearance: default

@@ -9,3 +9,5 @@ contents/_freeze/
 contents/.ipynb_checkpoints
 contents/.Rproj.user
 .Rproj.user
+
+/.quarto/

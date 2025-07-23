@@ -1,14 +1,13 @@
 ---
 #title: 'Glossary'
 title: 'Terms of Reference'
-subtitle: 'Draft'
 ---
 
-::: {.content-visible when-format="html"}
+<!-- ::: {.content-visible when-format="html"} -->
 
-~[⇠ back](../)~
+<!-- ~[⇠ back](../)~ -->
 
-:::
+<!-- ::: -->
 
 # Background {.unnumbered}
 
@@ -23,27 +22,33 @@ This document is subject to review and amendment as necessary to reflect the evo
 
 # Vision
 
-Bringing meta-scientists of all career levels together to improve the quality of metaresearch and contributing to a research ecosystem that upholds high quality, rigorous and transparent research within a positive research culture. 
+Bringing metaresearcher of all career levels and across disciplines together to improve the quality of metaresearch and contributing to a research ecosystem that upholds high quality, rigorous and transparent research within a positive research culture. 
+
+# Values 
+
+* To lead by example in terms of research integrity, quality of research, transparency and openness. 
+
+* To mainstream Equity, Diversity and Inclusion (EDI) considerations in metaresearch by promoting best practices and valuing diverse perspectives and experiences, fostering an inclusive environment, and committing to improving representation and participation in metaresearch, especially those historically underrepresented in research. 
 
 # Priorities
-The MERRI Collaboration is committed to the following priorities: 
+The MERRI Collaboration's priorities include: 
 
-- **Connecting Researchers in Metaresearch**:  Fostering collaboration by bringing individuals together to develop robust metaresearch projects with high potential for impact. 
+- **Connecting Researchers in Metaresearch**:  FFostering collaboration by bringing individuals together to develop robust metaresearch projects with high potential for impact.
 
 - **Mentorship**: Providing structured mentorship to enhances the capabilities and integration of those new to metaresearch. 
 
 - **Equity, Diversity and Inclusion**: Promoting best practices and valuing diverse perspectives and experiences, fostering an inclusive environment, and committing to improving representation and participation in metaresearch, especially those historically underrepresented in research. 
+
 - **Education**: Offering guided opportunities for metaresearch projects, leveraging the expertise and guidance of experienced members of the metaresearch community. 
 
 - **Stakeholder Engagement**: Engaging effectively with stakeholders, ensuring that our research efforts align with and are responsive to the broader scientific community’s needs. 
 
 # Funding 
 
-MERRI aims to exist beyond the duration of current project funding and will seek funding from a variety of sources including grants to support future metaresearch initiatives.  
+MERRI aims to exist beyond the duration of current project funding and will seek funding from a variety of sources including grants to support future metaresearch initiatives.   
+# Contribution 
 
-# Participation 
-
-MERRI welcomes participation from active researchers, in all levels of career stage, including early career researchers and postgraduate students, who share MERRI’s vision and are committed to its priorities.  MERRI is a work-in-progress and as we develop our formal processes will evolve too. For now, we welcome expressions of interest from those interested to participate. 
+MERRI welcomes contribution from active researchers, in all levels of career stage, including early career researchers and postgraduate students, who share MERRI’s vision and are committed to its priorities.  We welcome expressions of interest from those interested to contribute (see Join us!). Examples of contributions are activities that contribute to the growth and development of the MERRI collaboration, including activities to sustain the community (e.g. maintaining website), serving on committees, organizing activities, contributing to programs (e.g. mentorship programs).   
 
 # Meetings 
 
@@ -51,8 +56,9 @@ Monthly online meetings will be held for all MERRI collaborators to facilitate k
 
 # Working Groups 
 
-All MERRI collaborators have the opportunity to organise and participate in working groups. Participation in MERRI does not automatically grant placement in these groups, nor does it restrict participation in simultaneous projects or proposals. 
+All MERRI collaborators can organise and participate in working groups. Participation in MERRI does not automatically grant placement in these groups, nor does it restrict participation in simultaneous projects or proposals. 
 
 # Structure and Decision-Making 
 
-MERRI currently has a core team to ensure effective oversight and strategic direction of MERRI. The core team are Inge Stegman, Rachel Heyard, Mariska Leeflang, Gillian Currie and Tony Ross-Hellauer. Decisions will be made collaboratively to reflect the collective experience and preferences of MERRI community collaborators. 
+MERRI currently has a core team to ensure effective oversight and strategic direction of MERRI. The core team are Inge Stegman, Rachel Heyard, Mariska Leeflang, Gillian Currie, Tracey Weissgerber and Tony Ross-Hellauer. Decisions will be made collaboratively to reflect the collective experience and preferences of MERRI community collaborators. 
+
