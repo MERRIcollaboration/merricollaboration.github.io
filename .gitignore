@@ -1,13 +1,7 @@
-contents/.Rproj.user/
-contents/.quarto/
-contents/.Rhistory
-contents/.RData
-contents/.Ruserdata
-contents/_site/
-contents/_book/
-contents/_freeze/
-contents/.ipynb_checkpoints
-contents/.Rproj.user
-.Rproj.user
-
+*.Rproj.user
+*.Rproj
 /.quarto/
+
+README_files/
+# For any html file that is not in doc/
+*.html
