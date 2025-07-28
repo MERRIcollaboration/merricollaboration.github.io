@@ -7,7 +7,7 @@
  
 ## How to change stuff
  
-Collaborators in the *Merri Collaboration Github Group* can perform changes, following the steps below:
+Collaborators in the *MERRI Collaboration Github Group* can perform changes, following the steps below:
  
 1. Clone the repository (or pull any changes if you already did) and perform your changes in the `.qmd` files. 
     Note that each of our pages (apart from the landing page `index.qmd`) has its own folder. 
