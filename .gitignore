@@ -5,3 +5,6 @@
 README_files/
 # For any html file that is not in doc/
 *.html
+
+.Rproj.user
+.Rhistory
