@@ -27,7 +27,7 @@ Collaborators in the *Merri Collaboration Github Group* can perform changes, fol
     ├── LICENSE
     ├── MERRI_logo.png
     └── README.md
-  ``` 
+    ``` 
   
 2. This is a quarto website, so make sure you have quarto installed, see [here](https://quarto.org/docs/get-started/).
 
