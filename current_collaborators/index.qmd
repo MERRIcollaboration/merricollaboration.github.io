@@ -7,5 +7,8 @@ date-modified: last-modified
 
 ### Current contributors of the MERRI collaboration and their affiliation
 
+::: callout-important
+## Disclaimer 
 
-TBA: list of names in alphabetic order
+The list of current MERRI contributors will be added shortly.
+:::
