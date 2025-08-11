@@ -1,5 +1,5 @@
 ---
-#title: 'Glossary'
+pagetitle: Terms of Reference
 date-modified: last-modified
 ---
 
