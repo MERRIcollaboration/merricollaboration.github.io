@@ -24,13 +24,16 @@ Collaborators in the *MERRI Collaboration Github Group* can perform changes, fol
     │   └── index.qmd
     ├── _quarto.yml
     ├── styles.css
+    ├── docs/
     ├── LICENSE
     ├── MERRI_logo.png
     └── README.md
     ``` 
   
+  The `/docs/` folder contains the rendered website.
+  
 2. This is a quarto website, so make sure you have quarto installed, see [here](https://quarto.org/docs/get-started/).
 
 3. Render the website, using ``quarto render``
 
-4. Push all the changes back to git, including changes in the `.qmd` files, new `.qmd` files and the updated `/doc/` folder.
+4. Push all the changes back to git, including changes in the `.qmd` files, new `.qmd` files and the updated `/docs/` folder.
