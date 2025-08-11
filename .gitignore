@@ -3,8 +3,9 @@
 /.quarto/
 
 README_files/
+README.html
 # For any html file that is not in doc/
-*.html
+#*.html
 
 .Rproj.user
 .Rhistory
