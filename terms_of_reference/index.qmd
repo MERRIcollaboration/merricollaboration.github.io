@@ -14,7 +14,7 @@ date-modified: last-modified
 
 Metaresearch -- or “research-on-research” -- is increasingly used to investigate and inform efforts to improve the research ecosystem including research policy, culture, practice and impact. This includes testing interventions designed to improve transparency, reproducibility, research culture and practice.  
 
-The MEta-Research for Research Improvement (MERRI) Collaboration is a community of practice originating from three consortia funded under the Horizon Europe research and innovation programme. Specifically, [iRISE](https://irise-project.eu/) (grant agreement No 101094853), [OSIRIS](https://osiris4r.eu/) (grant agreement No 101094725) and [TIER2](https://tier2-project.eu/) (grant agreement No 101094817).  
+The MEta-Research for Research Improvement (MERRI) Collaboration is a community of practice originating from three consortia funded under the Horizon Europe research and innovation programme. Specifically, [iRISE](https://irise-project.eu/){.external target="_blank"} (grant agreement No 101094853), [OSIRIS](https://osiris4r.eu/){.external target="_blank"} (grant agreement No 101094725) and [TIER2](https://tier2-project.eu/){.external target="_blank"} (grant agreement No 101094817).  
 
 Recognising the need to coordinate metaresearch efforts, MERRI seeks to facilitate systemic, cross-disciplinary and cross-stakeholder collaborations that aim to develop a comprehensive knowledge base of research improvement interventions. This includes examining their effectiveness, potential harmful effects and generalisability. MERRI is committed to fostering an inclusive and supportive environment that encourages participants to both contribute to and benefit from the collective expertise and experiences shared within the community. 
 
@@ -42,8 +42,6 @@ The MERRI Collaboration's priorities include:
 - **Connecting Researchers in Metaresearch**:  Fostering collaboration by bringing individuals together to develop robust metaresearch projects with high potential for impact.
 
 - **Mentorship**: Providing structured mentorship to enhances the capabilities and integration of those new to metaresearch. 
-
-- **Equity, Diversity and Inclusion**: Promoting best practices and valuing diverse perspectives and experiences, fostering an inclusive environment, and committing to improving representation and participation in metaresearch, especially those historically underrepresented in research. 
 
 - **Education**: Offering guided opportunities for metaresearch projects, leveraging the expertise and guidance of experienced members of the metaresearch community. 
 

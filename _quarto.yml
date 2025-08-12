@@ -35,7 +35,7 @@ format:
       light: cosmo
       # dark: darkly   
     code-link: true    
-    author-meta: "Center for Reproducible Science"
+    author-meta: "Center for Reproducible Science and Research Synthesis"
     callout-appearance: default
     callout-icon: false 
     code-overflow: wrap   
