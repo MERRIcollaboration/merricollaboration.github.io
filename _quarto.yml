@@ -24,6 +24,7 @@ website:
       - index.qmd
       - current_collaborators/index.qmd
       - terms_of_reference/index.qmd
+      - events_page/index.qmd
       - join/index.qmd
 
 format:    

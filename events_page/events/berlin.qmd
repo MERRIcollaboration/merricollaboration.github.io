@@ -1,0 +1,8 @@
+---
+title: "MERRI launch event #2"
+date: 2025-09-22
+location: "Berlin, Germany"
+description: "Join us for the second launch event at the Responsible Research in Action Unconference in Berlin!"
+---
+
+Our second launch event will take place at the Responsible Research in Action Unconference in Berlin, Germany, on September 22, 2025. More information about the event can be found [here](https://rr-in-action2025.org/).

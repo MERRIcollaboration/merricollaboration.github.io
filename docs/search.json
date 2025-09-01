@@ -100,6 +100,33 @@
     ]
   },
   {
+    "objectID": "events_page/events/berlin.html",
+    "href": "events_page/events/berlin.html",
+    "title": "MERRI launch event #2",
+    "section": "",
+    "text": "Our second launch event will take place at the Responsible Research in Action Unconference in Berlin, Germany, on September 22, 2025. More information about the event can be found here."
+  },
+  {
+    "objectID": "join/index.html",
+    "href": "join/index.html",
+    "title": "Join us!",
+    "section": "",
+    "text": "If you share our vision and would like to contribute to better research and a positive research culture, then feel free to contact us and become a contributor of the MERRI Collaboration.\nFind our definition of contribution in our Terms of Reference. Fill in the following form to let us know that you are interested in joining us.",
+    "crumbs": [
+      "Join us!"
+    ]
+  },
+  {
+    "objectID": "current_collaborators/index.html",
+    "href": "current_collaborators/index.html",
+    "title": "Collaborators",
+    "section": "",
+    "text": "Collaborators\n\nCurrent contributors of the MERRI collaboration and their affiliation\n\n\n\n\n\n\nDisclaimer\n\n\n\nThe list of current MERRI contributors will be added shortly.",
+    "crumbs": [
+      "Collaborators"
+    ]
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Welcome",
@@ -120,23 +147,20 @@
     ]
   },
   {
-    "objectID": "current_collaborators/index.html",
-    "href": "current_collaborators/index.html",
-    "title": "Collaborators",
+    "objectID": "events_page/index.html",
+    "href": "events_page/index.html",
+    "title": "Events",
     "section": "",
-    "text": "Collaborators\n\nCurrent contributors of the MERRI collaboration and their affiliation\n\n\n\n\n\n\nDisclaimer\n\n\n\nThe list of current MERRI contributors will be added shortly.",
+    "text": "Find our upcoming (and past) events below. If you would like to host an event with us, please get in touch!\n\n\n\n\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nlocation\n\n\n\nDescription\n\n\n\n\n\n\n\n\nMERRI launch event #1\n\n\nSep 8, 2025\n\n\nNijmegen, The Netherlands\n\n\nJoin us for the first launch event in Nijmegen!\n\n\n\n\n\n\nMERRI launch event #2\n\n\nSep 22, 2025\n\n\nBerlin, Germany\n\n\nJoin us for the second launch event at the Responsible Research in Action Unconference in Berlin!\n\n\n\n\n\n\nNo matching items",
     "crumbs": [
-      "Collaborators"
+      "Events"
     ]
   },
   {
-    "objectID": "join/index.html",
-    "href": "join/index.html",
-    "title": "Join us!",
+    "objectID": "events_page/events/nijmegen.html",
+    "href": "events_page/events/nijmegen.html",
+    "title": "MERRI launch event #1",
     "section": "",
-    "text": "If you share our vision and would like to contribute to better research and a positive research culture, then feel free to contact us and become a contributor of the MERRI Collaboration.\nFind our definition of contribution in our Terms of Reference. Fill in the following form to let us know that you are interested in joining us.",
-    "crumbs": [
-      "Join us!"
-    ]
+    "text": "MERRI contributor Kim Wever is inviting to the “Open Science and Reproducibility Event” on Monday, September 8th, 2025, at the Radboud University in Nijmegen, The Netherlands, where she will officially launch the MERRI collaboration.\nFind more information and the program here."
   }
 ]

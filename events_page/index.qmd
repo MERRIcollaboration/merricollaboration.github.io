@@ -1,0 +1,11 @@
+---
+title: "Events"
+listing:
+  contents: events
+  type: table
+  sort: "date asc"
+  categories: false
+  fields: [title, date, location, description]
+---
+
+Find our upcoming (and past) events below. If you would like to host an event with us, please get in touch!

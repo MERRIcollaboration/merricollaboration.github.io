@@ -1,0 +1,10 @@
+---
+title: "MERRI launch event #1"
+date: 2025-09-08
+location: "Nijmegen, The Netherlands"
+description: "Join us for the first launch event in Nijmegen!"
+---
+
+MERRI contributor Kim Wever is inviting to the "Open Science and Reproducibility Event" on Monday, September 8th, 2025, at the Radboud University in Nijmegen, The Netherlands, where she will officially launch the MERRI collaboration.
+
+Find more information and the program  [here](https://www.radboudumc.nl/en/agenda/2025/september/open-science-and-reproducibility-research-symposium).
