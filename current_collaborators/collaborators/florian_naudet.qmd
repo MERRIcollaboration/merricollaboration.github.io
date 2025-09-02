@@ -1,0 +1,7 @@
+---
+title: Florian Naudet"
+image: img/florian.jpeg
+role: "Professor"
+affiliation: "Université de Rennes, Inserm, IUF"
+country: "France"
+---

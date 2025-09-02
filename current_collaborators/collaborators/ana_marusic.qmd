@@ -1,0 +1,7 @@
+---
+title: "Ana Marušić"
+image: img/ana.jpg
+role: "Professor"
+affiliation: "University of Split, School of Medicine"
+country: "Croatia"
+---

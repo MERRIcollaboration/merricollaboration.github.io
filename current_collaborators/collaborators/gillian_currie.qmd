@@ -1,0 +1,7 @@
+---
+title: "Gillian Currie"
+image: img/gill.jpg
+role: "Research Fellow"
+affiliation: "University of Edinburgh"
+country: "UK"
+---

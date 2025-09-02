@@ -1,0 +1,7 @@
+---
+title: "Stephanie Zellers"
+image: img/stephanie.jpg
+role: "Postdoctoral Researcher"
+affiliation: "Institute for Molecular Medicine Finland"
+country: "Finland"
+---

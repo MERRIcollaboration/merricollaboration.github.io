@@ -1,0 +1,9 @@
+---
+title: "Online networking event"
+date: 2025-10-29
+location: "online"
+description: "More information will follow soon"
+image: https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg
+---
+
+MERRI contributor Alex Bannach-Brown will facilitate this online networking event on October 29th, 2025. It will take place from 12:00 to 13:00 CET. Stay tuned for more information!

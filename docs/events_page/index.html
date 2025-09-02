@@ -83,9 +83,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-date','listing-location','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-date','listing-location','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-date","listing-title","listing-author"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -182,7 +182,7 @@ window.Quarto = {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../current_collaborators/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Collaborators</span></a>
+ <span class="menu-text">Active collaborators</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -236,87 +236,84 @@ window.Quarto = {
 
 
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-      <option value="" disabled="" selected="" hidden="">Order By</option>
-      <option value="index" data-direction="asc">Default</option>
-      <option value="listing-date-sort" data-direction="asc">
-        Date - Oldest
-      </option>
-      <option value="listing-date-sort" data-direction="desc">
-        Date - Newest
-      </option>
-      <option value="listing-title-sort" data-direction="asc">
-        Title
-      </option>
-    </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1757282400000" data-listing-file-modified-sort="1756815093478" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41">
+<div class="thumbnail"><a href="../events_page/events/nijmegen.html" class="no-external">
+
+<img loading="lazy" src="https://www.radboudumc.nl/assets/img/logo/radboud/logo-en-us.svg" class="thumbnail-image">
+
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events_page/events/nijmegen.html" class="no-external">MERRI launch event #1</a>
+</h3>
+<div class="delink listing-description"><a href="../events_page/events/nijmegen.html" class="no-external">
+<p>Join us for the first launch event in Nijmegen!</p>
+</a></div>
 </div>
-<table class="quarto-listing-table table">
-<thead>
-<tr>
+<div class="metadata">
+<a href="../events_page/events/nijmegen.html" class="no-external">
+<div class="listing-date">
+Sep 8, 2025
+</div>
+<div class="metadata-value listing-location">
+Nijmegen, The Netherlands
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1758492000000" data-listing-file-modified-sort="1756815108050" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<div class="thumbnail"><a href="../events_page/events/berlin.html" class="no-external">
 
-<th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Title</a>
-</th>
+<img loading="lazy" src="https://rr-in-action2025.org/wp-content/uploads/2025/01/cropped-20250115-Update-Dec-2024-transparent.png" class="thumbnail-image">
 
-<th>
-<a class="sort" data-sort="listing-date-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Date</a>
-</th>
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events_page/events/berlin.html" class="no-external">MERRI launch event #2</a>
+</h3>
+<div class="delink listing-description"><a href="../events_page/events/berlin.html" class="no-external">
+<p>Join us for the second launch event at the Responsible Research in Action Unconference in Berlin!</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../events_page/events/berlin.html" class="no-external">
+<div class="listing-date">
+Sep 22, 2025
+</div>
+<div class="metadata-value listing-location">
+Berlin, Germany
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1761692400000" data-listing-file-modified-sort="1756819956269" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="28">
+<div class="thumbnail"><a href="../events_page/events/online_networking.html" class="no-external">
 
-<th>
-location
-</th>
+<img loading="lazy" src="https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg" class="thumbnail-image">
 
-<th>
-Description
-</th>
-
-</tr>
-</thead>
-<tbody class="list">
-
-<tr data-index="0" data-listing-date-sort="1757282400000" data-listing-file-modified-sort="1756744739702" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="41" data-listing-title-sort="MERRI launch event #1" data-listing-filename-sort="nijmegen.qmd">
-<td>
-<a href="../events_page/events/nijmegen.html" class="title listing-title">MERRI launch event #1</a>
-</td>
-<td>
-<span class="listing-date">Sep 8, 2025</span>
-</td>
-<td>
-<span class="listing-location">Nijmegen, The Netherlands</span>
-</td>
-<td>
-<span class="listing-description">Join us for the first launch event in Nijmegen!</span>
-</td>
-
-</tr>
-
-<tr data-index="1" data-listing-date-sort="1758492000000" data-listing-file-modified-sort="1756744705446" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="30" data-listing-title-sort="MERRI launch event #2" data-listing-filename-sort="berlin.qmd">
-<td>
-<a href="../events_page/events/berlin.html" class="title listing-title">MERRI launch event #2</a>
-</td>
-<td>
-<span class="listing-date">Sep 22, 2025</span>
-</td>
-<td>
-<span class="listing-location">Berlin, Germany</span>
-</td>
-<td>
-<span class="listing-description">Join us for the second launch event at the Responsible Research in Action Unconference in Berlin!</span>
-</td>
-
-</tr>
-
-</tbody>
-</table>
+</a></div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="../events_page/events/online_networking.html" class="no-external">Online networking event</a>
+</h3>
+<div class="delink listing-description"><a href="../events_page/events/online_networking.html" class="no-external">
+<p>More information will follow soon</p>
+</a></div>
+</div>
+<div class="metadata">
+<a href="../events_page/events/online_networking.html" class="no-external">
+<div class="listing-date">
+Oct 29, 2025
+</div>
+<div class="metadata-value listing-location">
+online
+</div>
+</a>
+</div>
+</div>
+</div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

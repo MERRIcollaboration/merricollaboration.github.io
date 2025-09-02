@@ -1,14 +1,25 @@
 ---
 pagetitle: Collaborators
 date-modified: last-modified
+listing:
+  contents: collaborators
+  type: grid
+  sort: "title asc"
+  image-height: 200px
+  fields: [image, title, role, affiliation, country]
+  field-display-names:
+    title: "Name"
+    role: "Title"
+    affiliation: "Affiliation"
+    country: "Country"
 ---
 
-# Collaborators {.unnumbered}
+# Active collaborators {.unnumbered}
 
-### Current contributors of the MERRI collaboration and their affiliation
+<!-- ### Current contributors of the MERRI collaboration and their affiliation -->
 
-::: callout-important
-## Disclaimer 
+<!-- ::: callout-important -->
+<!-- ## Disclaimer  -->
 
-The list of current MERRI contributors will be added shortly.
-:::
+<!-- The list of current MERRI contributors will be added shortly. -->
+<!-- ::: -->

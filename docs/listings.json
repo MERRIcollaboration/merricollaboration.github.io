@@ -3,7 +3,28 @@
     "listing": "/events_page/index.html",
     "items": [
       "/events_page/events/nijmegen.html",
-      "/events_page/events/berlin.html"
+      "/events_page/events/berlin.html",
+      "/events_page/events/online_networking.html"
+    ]
+  },
+  {
+    "listing": "/current_collaborators/index.html",
+    "items": [
+      "/current_collaborators/collaborators/alexandra_bannach_brown.html",
+      "/current_collaborators/collaborators/ana_marusic.html",
+      "/current_collaborators/collaborators/carlijn_hooijmans.html",
+      "/current_collaborators/collaborators/dora_pejdo.html",
+      "/current_collaborators/collaborators/fakhri_momeni.html",
+      "/current_collaborators/collaborators/florian_naudet.html",
+      "/current_collaborators/collaborators/gillian_currie.html",
+      "/current_collaborators/collaborators/kaitlyn_hair.html",
+      "/current_collaborators/collaborators/kim_wever.html",
+      "/current_collaborators/collaborators/malcolm_macleod.html",
+      "/current_collaborators/collaborators/veerle_vandeneynden.html",
+      "/current_collaborators/collaborators/rachel_heyard.html",
+      "/current_collaborators/collaborators/sarah_mccann.html",
+      "/current_collaborators/collaborators/stephanie_zellers.html",
+      "/current_collaborators/collaborators/nicholas_devito.html"
     ]
   }
 ]

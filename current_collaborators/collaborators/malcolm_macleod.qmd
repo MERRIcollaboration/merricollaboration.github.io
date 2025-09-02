@@ -1,0 +1,7 @@
+---
+title: "Malcolm Macleod"
+image: img/malcolm.jpg
+role: "Professor of Neurology and Translational Neurosciences"
+affiliation: "University of Edinburgh"
+country: "UK"
+---

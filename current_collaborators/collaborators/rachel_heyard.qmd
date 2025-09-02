@@ -1,0 +1,7 @@
+---
+title: "Rachel Heyard"
+image: img/rachel.png
+role: "Senior Researcher"
+affiliation: "Center for Reproducible Science and Research Synthesis, University of Zurich"
+country: "Switzerland"
+---

@@ -1,0 +1,7 @@
+---
+title: "Fakhri Momeni"
+image: img/fakhri.jpg
+role: "Postdoctoral Researcher"
+affiliation: "Gesis, Leibniz Institute for Social Sciences"
+country: "Germany"
+---

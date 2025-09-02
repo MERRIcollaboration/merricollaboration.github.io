@@ -1,0 +1,7 @@
+---
+title: "Dora Pejdo"
+image: img/dora.jpeg
+role: "Researcher"
+affiliation: "University of Split, School of Medicine"
+country: "Croatia"
+---

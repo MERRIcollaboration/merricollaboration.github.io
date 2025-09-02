@@ -1,0 +1,7 @@
+---
+title: "Kaitlyn Hair"
+image: img/kaitlyn.jpg
+role: "Research Fellow"
+affiliation: "University College London"
+country: "UK"
+---

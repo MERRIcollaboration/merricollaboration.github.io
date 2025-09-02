@@ -2,10 +2,16 @@
 title: "Events"
 listing:
   contents: events
-  type: table
+  type: default
   sort: "date asc"
   categories: false
-  fields: [title, date, location, description]
+  fields: [image, title, date, location, description]
+  image-align: right
+  field-display-names:
+    title: "Event"
+    date: "Date"
+    location: "Location"
+    description: "Details"
 ---
 
 Find our upcoming (and past) events below. If you would like to host an event with us, please get in touch!

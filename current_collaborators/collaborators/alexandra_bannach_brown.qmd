@@ -1,0 +1,7 @@
+---
+title: "Alexandra Bannach-Brown"
+image: img/alex.jpg
+role: "Research Fellow"
+affiliation: "Berlin Institute of Health, Charité"
+country: "Germany"
+---

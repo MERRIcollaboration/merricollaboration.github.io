@@ -1,0 +1,7 @@
+---
+title: "Veerle Van den Eynden"
+image: img/veerle.jpeg
+role: "Research Data Management advisor"
+affiliation: "University Hasselt"
+country: "Belgium"
+---

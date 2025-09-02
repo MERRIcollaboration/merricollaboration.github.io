@@ -1,0 +1,7 @@
+---
+title: "Nicholas DeVito"
+image: img/nicholas.jpeg
+role: "Postdoctoral Researcher"
+affiliation: "University of Oxford"
+country: "UK"
+---
