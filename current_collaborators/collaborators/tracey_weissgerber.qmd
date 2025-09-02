@@ -1,0 +1,7 @@
+---
+title: "Tracey Weissgerber"
+image: img/tracey.jpg
+role: "Team Leader"
+affiliation: "University of Coimbra"
+country: "Portugal"
+---

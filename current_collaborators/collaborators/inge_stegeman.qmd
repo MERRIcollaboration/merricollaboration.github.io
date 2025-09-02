@@ -1,0 +1,7 @@
+---
+title: "Inge Stegeman"
+image: img/inge.jpg
+role: "Associate Professor"
+affiliation: "University Medical Centre Utrecht"
+country: "The Netherlands"
+---

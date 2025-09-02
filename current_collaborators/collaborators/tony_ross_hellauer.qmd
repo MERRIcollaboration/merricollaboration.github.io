@@ -1,0 +1,7 @@
+---
+title: "Tony Ross-Hellauer"
+image: img/tony.jpg
+role: "Group leader"
+affiliation: "Know-Center"
+country: "Austria"
+---
