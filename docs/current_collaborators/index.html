@@ -34,6 +34,8 @@ ul.task-list li input[type="checkbox"] {
 <link href="../terms_of_reference/index.html" rel="next">
 <link href="../index.html" rel="prev">
 <link href="../MERRI_logo.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
@@ -71,7 +73,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-role','listing-affiliation','listing-country',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -85,7 +145,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../current_collaborators/index.html">Collaborators</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../current_collaborators/index.html">Active collaborators</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -122,7 +182,7 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../current_collaborators/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text">Collaborators</span></a>
+ <span class="menu-text">Active collaborators</span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -165,7 +225,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Modified</div>
     <div class="quarto-title-meta-contents">
-      <p class="date-modified">August 11, 2025</p>
+      <p class="date-modified">September 2, 2025</p>
     </div>
   </div>
     
@@ -176,29 +236,668 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="collaborators" class="level1 unnumbered">
-<h1 class="unnumbered">Collaborators</h1>
-<section id="current-contributors-of-the-merri-collaboration-and-their-affiliation" class="level3">
-<h3 class="anchored" data-anchor-id="current-contributors-of-the-merri-collaboration-and-their-affiliation">Current contributors of the MERRI collaboration and their affiliation</h3>
-<div class="callout callout-style-default callout-important no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Disclaimer
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>The list of current MERRI contributors will be added shortly.</p>
-</div>
-</div>
+<section id="active-collaborators" class="level1 unnumbered">
+<h1 class="unnumbered">Active collaborators</h1>
+<!-- ### Current contributors of the MERRI collaboration and their affiliation -->
+<!-- ::: callout-important -->
+<!-- ## Disclaimer  -->
+<!-- The list of current MERRI contributors will be added shortly. -->
+<!-- ::: -->
+
 
 
 </section>
-</section>
 
-</main> <!-- /main -->
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1756820243664" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/alexandra_bannach_brown.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/alex.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Alexandra Bannach-Brown
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Research Fellow
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Berlin Institute of Health, Charité
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Germany
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1756823846405" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/ana_marusic.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/ana.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ana Marušić
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Professor
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University of Split, School of Medicine
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Croatia
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1756823670350" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/carlijn_hooijmans.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/carlijn.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Carlijn Hooijmans
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Assistant Professor
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Radboud University Medical Centre, Neijmegen
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+The Netherlands
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="3" data-listing-file-modified-sort="1756823545426" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/dora_pejdo.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/dora.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Dora Pejdo
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Researcher
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University of Split, School of Medicine
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Croatia
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="4" data-listing-file-modified-sort="1756824145025" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/fakhri_momeni.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/fakhri.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Fakhri Momeni
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Postdoctoral Researcher
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Gesis, Leibniz Institute for Social Sciences
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Germany
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="5" data-listing-file-modified-sort="1756823432334" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/florian_naudet.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/florian.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Florian Naudet”
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Professor
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Université de Rennes, Inserm, IUF
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+France
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="6" data-listing-file-modified-sort="1756820415888" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/gillian_currie.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/gill.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gillian Currie
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Research Fellow
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University of Edinburgh
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+UK
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="7" data-listing-file-modified-sort="1756824688633" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/kaitlyn_hair.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/kaitlyn.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kaitlyn Hair
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Research Fellow
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University College London
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+UK
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="8" data-listing-file-modified-sort="1756823660594" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/kim_wever.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/kim.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Kim Wever
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Assistant Professor
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Radboud University Medical Centre, Nijmegen
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+The Netherlands
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="9" data-listing-file-modified-sort="1756822563951" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/malcolm_macleod.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/malcolm.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Malcolm Macleod
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Professor of Neurology and Translational Neurosciences
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University of Edinburgh
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+UK
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="10" data-listing-file-modified-sort="1756824457276" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/veerle_vandeneynden.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/nicholas.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Nicholas DeVito
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Postdoctoral Researcher
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University of Oxford
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+UK
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="11" data-listing-file-modified-sort="1756818135683" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/rachel_heyard.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/rachel.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Rachel Heyard
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Senior Researcher
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Center for Reproducible Science and Research Synthesis, University of Zurich
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Switzerland
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="12" data-listing-file-modified-sort="1756820565980" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/sarah_mccann.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/sarah.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Sarah McCann
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Research Group Leader
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Berlin Institute of Health, Charité
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Germany
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="13" data-listing-file-modified-sort="1756820687375" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/stephanie_zellers.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/stephanie.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Stephanie Zellers
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Postdoctoral Researcher
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+Institute for Molecular Medicine Finland
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Finland
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="14" data-listing-file-modified-sort="1756824513276" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="../current_collaborators/collaborators/nicholas_devito.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="../current_collaborators/collaborators/img/veerle.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Veerle Van den Eynden
+</h5>
+<table class="card-other-values">
+
+<tbody><tr>
+<td>
+Title
+</td>
+<td class="role">
+Research Data Management advisor
+</td>
+</tr>
+
+<tr>
+<td>
+Affiliation
+</td>
+<td class="affiliation">
+University Hasselt
+</td>
+</tr>
+
+<tr>
+<td>
+Country
+</td>
+<td class="country">
+Belgium
+</td>
+</tr>
+
+</tbody></table>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
