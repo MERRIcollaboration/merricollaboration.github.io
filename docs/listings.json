@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/events_page/index.html",
-    "items": [
-      "/events_page/events/nijmegen.html",
-      "/events_page/events/berlin.html",
-      "/events_page/events/online_networking.html"
-    ]
-  },
-  {
     "listing": "/current_collaborators/index.html",
     "items": [
       "/current_collaborators/collaborators/alexandra_bannach_brown.html",
@@ -30,6 +22,14 @@
       "/current_collaborators/collaborators/tony_ross_hellauer.html",
       "/current_collaborators/collaborators/tracey_weissgerber.html",
       "/current_collaborators/collaborators/nicholas_devito.html"
+    ]
+  },
+  {
+    "listing": "/events_page/index.html",
+    "items": [
+      "/events_page/events/nijmegen.html",
+      "/events_page/events/berlin.html",
+      "/events_page/events/online_networking.html"
     ]
   }
 ]
