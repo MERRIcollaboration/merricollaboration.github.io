@@ -4,7 +4,6 @@
  
  <http://merricollaboration.github.io>
  
- 
 ## How to change stuff
  
 Collaborators in the *MERRI Collaboration Github Group* can perform changes, following the steps below:
@@ -19,7 +18,10 @@ Collaborators in the *MERRI Collaboration Github Group* can perform changes, fol
     ├── join
     │   └── index.qmd
     ├── current_collaborators
-    │   └── index.qmd
+    │   ├── index.qmd
+    │   ├── <collaborator>.qmd
+    |   └── img/
+    |       └── <collaborator>.jpg
     ├── terms_of_reference
     │   └── index.qmd
     ├── _quarto.yml
@@ -34,6 +36,6 @@ Collaborators in the *MERRI Collaboration Github Group* can perform changes, fol
   
 2. This is a quarto website, so make sure you have quarto installed, see [here](https://quarto.org/docs/get-started/).
 
-3. Render the website, using ``quarto render``
+3. Render the website using ``quarto render`` in the (RStudio) terminal 
 
 4. Push all the changes back to git, including changes in the `.qmd` files, new `.qmd` files and the updated `/docs/` folder.
