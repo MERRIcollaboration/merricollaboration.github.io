@@ -1,0 +1,7 @@
+---
+title: "Emily Sena"
+image: img/emily.jpg
+role: "Professor of Meta-science and Translational Medicine"
+affiliation: "University of Edinburgh"
+country: "UK"
+---
