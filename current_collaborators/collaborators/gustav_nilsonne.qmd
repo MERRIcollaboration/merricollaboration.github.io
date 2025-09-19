@@ -1,0 +1,7 @@
+---
+title: "Gustav Nilsonne"
+image: img/gustav.jpg
+role: "Associate Professor"
+affiliation: "Karolinska Institutet"
+country: "Sweden"
+---

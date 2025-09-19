@@ -1,0 +1,7 @@
+---
+title: "Susanna-Assunta Sansone"
+image: img/susanna.jpg
+role: "Professor and Director"
+affiliation: "University of Oxford, Oxford e-Research Centre"
+country: "UK"
+---
