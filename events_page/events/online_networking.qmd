@@ -1,6 +1,6 @@
 ---
 title: "Online networking event"
-date: 2025-10-29
+date: 2025-11-11
 location: "online"
 description: "Register below!"
 image: https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg
