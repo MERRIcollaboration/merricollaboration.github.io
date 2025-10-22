@@ -1,0 +1,7 @@
+---
+title: "Joeri Tijdink"
+image: img/joeri.jpeg
+role: "Assistant Professor"
+affiliation: " Amsterdam University Medical Center"
+country: "The Netherlands"
+---

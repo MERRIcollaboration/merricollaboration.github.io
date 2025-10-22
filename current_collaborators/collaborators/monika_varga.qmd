@@ -1,0 +1,7 @@
+---
+title: "Monika Varga"
+image: img/monika.jpg
+role: "Senior Researcher"
+affiliation: "Hungarian University of Agriculture and Life Sciences Institute of Animal Sciences"
+country: "Hungary"
+---
