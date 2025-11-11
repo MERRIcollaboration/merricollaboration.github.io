@@ -1,6 +1,8 @@
 project:
   type: website   
   output-dir: docs
+  resources:
+    - "google5dda11abb16daa94.html"
 
 website:
   title: "MERRI"  
