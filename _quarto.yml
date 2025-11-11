@@ -7,7 +7,8 @@ project:
 website:
   title: "MERRI"  
   page-navigation: true
-  favicon: MERRI_logo.png   
+  favicon: MERRI_logo.png
+  site-url: https://merricollaboration.github.io/   
 
   page-footer:
     border: true
