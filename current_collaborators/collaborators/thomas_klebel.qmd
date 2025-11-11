@@ -1,0 +1,7 @@
+---
+title: "Thomas Klebel"
+image: img/thomas.png
+role: "Senior Researcher"
+affiliation: "Know Center Research GmbH"
+country: "Austria"
+---
