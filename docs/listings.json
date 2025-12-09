@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/events_page/index.html",
+    "items": [
+      "/events_page/events/nijmegen.html",
+      "/events_page/events/berlin.html",
+      "/events_page/events/online_networking.html"
+    ]
+  },
+  {
     "listing": "/current_collaborators/index.html",
     "items": [
       "/current_collaborators/collaborators/alexandra_bannach_brown.html",
@@ -8,8 +16,10 @@
       "/current_collaborators/collaborators/dora_pejdo.html",
       "/current_collaborators/collaborators/emily_sena.html",
       "/current_collaborators/collaborators/fakhri_momeni.html",
+      "/current_collaborators/collaborators/fiona_ramage.html",
       "/current_collaborators/collaborators/florian_naudet.html",
       "/current_collaborators/collaborators/gillian_currie.html",
+      "/current_collaborators/collaborators/gloria_gonzalez_curto.html",
       "/current_collaborators/collaborators/gustav_nilsonne.html",
       "/current_collaborators/collaborators/inge_stegeman.html",
       "/current_collaborators/collaborators/joeri_tijdink.html",
@@ -27,14 +37,6 @@
       "/current_collaborators/collaborators/tony_ross_hellauer.html",
       "/current_collaborators/collaborators/tracey_weissgerber.html",
       "/current_collaborators/collaborators/nicholas_devito.html"
-    ]
-  },
-  {
-    "listing": "/events_page/index.html",
-    "items": [
-      "/events_page/events/nijmegen.html",
-      "/events_page/events/berlin.html",
-      "/events_page/events/online_networking.html"
     ]
   }
 ]

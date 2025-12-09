@@ -1,0 +1,7 @@
+---
+title: Gloria Gonzalez Curto
+image: img/gloria.jpg
+role: "Project Manager"
+affiliation: "Direction de la culture et de l'information scientifiques INRIA"
+country: "France"
+---

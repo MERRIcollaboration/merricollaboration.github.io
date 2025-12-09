@@ -1,0 +1,7 @@
+---
+title: "Fiona Ramage"
+image: img/fiona.jpg
+role: "Postdoctoral Researcher"
+affiliation: "University of Edinburgh"
+country: "UK"
+---
