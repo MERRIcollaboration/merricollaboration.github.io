@@ -1,0 +1,7 @@
+---
+title: "Max Cenci"
+image: img/max.png
+role: "Assistant professor"
+affiliation: "Radboud University Medical Center"
+country: "The Netherlands"
+---

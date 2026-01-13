@@ -1,0 +1,7 @@
+---
+title: "Adélie Ranville"
+image: img/adelie.jpg
+role: "Lecturer"
+affiliation: "IAE Grenoble"
+country: "France"
+---
