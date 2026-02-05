@@ -36,10 +36,10 @@
   {
     "listing": "/events_page/index.html",
     "items": [
-      "/events_page/events/nijmegen.html",
-      "/events_page/events/berlin.html",
+      "/events_page/events/online_networking_march_2026.html",
       "/events_page/events/online_networking.html",
-      "/events_page/events/online_networking_march_2026.html"
+      "/events_page/events/berlin.html",
+      "/events_page/events/nijmegen.html"
     ]
   }
 ]
