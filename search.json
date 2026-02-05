@@ -124,6 +124,16 @@
     ]
   },
   {
+    "objectID": "join/index.html#internal-communincation",
+    "href": "join/index.html#internal-communincation",
+    "title": "Join us!",
+    "section": "Internal Communincation",
+    "text": "Internal Communincation\nMERRI uses Zulip for our internal group communication. Zulip is an organized team chat app designed for efficient communication. We are grateful to Zulip for supporting MERRI by sponsoring our Cloud account.\n\nOnce you have joined us by filling out the form above, you will receive a link to the MERRI Zulip group.",
+    "crumbs": [
+      "Join us!"
+    ]
+  },
+  {
     "objectID": "current_collaborators/index.html",
     "href": "current_collaborators/index.html",
     "title": "Active collaborators",
