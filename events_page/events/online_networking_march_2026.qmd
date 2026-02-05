@@ -2,8 +2,8 @@
 title: "Online networking event March 2026"
 date: 2026-03-18
 location: "online"
-description: "Register below!"
-image: https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg
+description: "Register now!"
+image: https://cdn.pixabay.com/photo/2018/11/29/21/51/social-media-3846597_960_720.png
 ---
 
 **Networking Event: Meta-Research and Reproducibility**

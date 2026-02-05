@@ -2,7 +2,7 @@
 title: "MERRI launch event #1"
 date: 2025-09-08
 location: "Nijmegen, The Netherlands"
-description: "Join us for the first launch event in Nijmegen!"
+description: "Thanks for joining us for the first launch event in Nijmegen!"
 image: https://www.radboudumc.nl/assets/img/logo/radboud/logo-en-us.svg
 ---
 

@@ -3,7 +3,7 @@ title: "Events"
 listing:
   contents: events
   type: default
-  sort: "date asc"
+  sort: "date desc"
   categories: false
   fields: [image, title, date, location, description]
   image-align: right

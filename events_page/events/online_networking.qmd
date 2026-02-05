@@ -2,7 +2,7 @@
 title: "Online networking event"
 date: 2025-11-11
 location: "online"
-description: "Register below!"
+description: "Thanks for joining"
 image: https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg
 ---
 
