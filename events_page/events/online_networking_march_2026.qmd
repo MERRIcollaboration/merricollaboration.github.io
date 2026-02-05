@@ -1,0 +1,15 @@
+---
+title: "Online networking event March 2026"
+date: 2026-03-18
+location: "online"
+description: "Register below!"
+image: https://images.pexels.com/photos/5598294/pexels-photo-5598294.jpeg
+---
+
+**Networking Event: Meta-Research and Reproducibility**
+</br>
+Join us for an online networking session on March 18, 2026, from 17:00–18:00 CET, facilitated by MERRI contributors Rachel Heyard \& Stephanie Zellers. This event offers an informal space to connect with others interested in meta-research, open science, and reproducibility. Whether you’re a seasoned researcher, early-career scholar, or simply curious about improving research practices, this is a chance to share ideas, exchange experiences, and expand your network.
+
+Please register and recieve the zoom link, please enter your details [here.](https://helsinki.zoom.us/meeting/register/BBfwDkITTNCJ3OPud0cU3w#/registration){target="_blank"}
+
+We look forward to seeing you!

@@ -1,6 +1,6 @@
 ---
 pagetitle: Collaborators
-date-modified: last-modified
+# date-modified: last-modified
 listing:
   contents: collaborators
   type: grid
@@ -13,6 +13,7 @@ listing:
     affiliation: "Affiliation"
     country: "Country"
 ---
+
 
 # Active collaborators {.unnumbered}
 
