@@ -1,0 +1,7 @@
+---
+title: "Peter Degen"
+image: https://www.ebpi.uzh.ch/contacts/ebpi/pdegen/photo/EBPI_Port_degen_peter_2025_07_15_5885_fixed_37kb.jpg.jpg
+role: "Postdoctoral Researcher"
+affiliation: "Center for Reproducible Science and Research Synthesis, University of Zurich"
+country: "Switzerland"
+---
