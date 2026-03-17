@@ -8,6 +8,8 @@ If you share our vision and would like to contribute to better research and a po
 Find our definition of contribution in our Terms of Reference. Fill in the [following form](https://forms.gle/4TV2nrsmDSX7QTZk9){.external target="_blank"} to let us know that you are interested in joining us. 
 
 
+For any questions, make sure to contact us via [merricollaboration@gmail.com](mailto:merricollaboration@gmail.com).
+
 ## Internal Communincation
 
 MERRI uses Zulip for our internal group communication. [Zulip](https://zulip.com/){.external target="_blank"} is an organized team chat app designed for efficient communication. We are grateful to Zulip for supporting MERRI by sponsoring our Cloud account. 
