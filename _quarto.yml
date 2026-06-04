@@ -1,6 +1,6 @@
 project:
   type: website   
-  output-dir: docs
+  output-dir: _site
   resources:
     - "google5dda11abb16daa94.html"
 
@@ -14,7 +14,7 @@ website:
     border: true
     background: light
     left: | 
-      Made by the [Center for Reproducible Science](https://www.crs.uzh.ch/en.html) \  
+      Made by the [Center for Reproducible Science and Research Synthesis](https://www.crs.uzh.ch/en.html) \  
       Source code on [![](https://github.githubassets.com/assets/GitHub-Logo-ee398b662d42.png){fig-alt="Git" width=55px}](https://github.com/MERRIcollaboration/merricollaboration.github.io) 
     right: This is a website under the [CC BY international license 4.0](https://creativecommons.org/licenses/by/4.0/)                    
 
