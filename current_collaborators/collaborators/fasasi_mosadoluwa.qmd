@@ -1,0 +1,7 @@
+---
+title: "Fasasi Mosadoluwa "
+image: img/fasasi.jpg
+role: "Team Lead"
+affiliation: "Nubian Research"
+country: "Nigeria"
+---
