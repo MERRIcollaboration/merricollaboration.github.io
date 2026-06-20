@@ -1,0 +1,22 @@
+---
+pagetitle: Newsletter
+# date-modified: last-modified
+listing:
+  contents: archiv
+  type: table
+  sort: "date asc"
+  fields: [date, title]
+  field-display-names:
+    date: "Date"
+    title: "Title"
+---
+
+# The MERRI Newsletter 
+
+Our Newsletter is send out every two months to all MERRI members. 
+It is prepared by MERRI contributors **Monika Varga** and **Fiona Ramage**!
+
+Below, you can find an **archive** of all previous newsletter editions. 
+
+
+

@@ -28,6 +28,7 @@ website:
       - current_collaborators/index.qmd
       - terms_of_reference/index.qmd
       - events_page/index.qmd
+      - newsletter/index.qmd
       - join/index.qmd
 
 format:    

@@ -1,0 +1,104 @@
+---
+title: "February 2026 -- 1st MERRI Newsletter"
+format: html
+date: "02.09.2026"
+---
+
+**Welcome to the very first issue of the MERRI Community Newsletter**
+ 
+### From the editors
+Welcome to the MERRI community, a collective of researchers with a shared interest in and passion for rigour and reproducibility, evidence synthesis, and related topics. Many members will have originated from the TIER2, iRISE, and OSIRIS projects for which we hope to keep the momentum, but we welcome any researchers or research staff of any discipline or career stage who share our values.
+We’re launching this newsletter to provide a space for our community to reflect on things like how science works and how we can make it work better, as well as highlighting happenings and opportunities in our field(s). We want to design a newsletter every two months that will foster and strengthen links among MERRI members and facilitate collaboration, as well as doing a round-up of news and opportunities that will be relevant and/or of interest to you. We also aim to prompt open and informal discussions around this content and more, and to create a natural space for members to reach out about any relevant news or opportunities they come across.
+
+This newsletter series will focus namely on:  
+
+* Recent highlights from the field: a summary of potentially interesting items like publications, methods, tools and best practices in the context of open science, metascience, and research culture,  
+* Community submissions: more specific items that some of our members wanted to highlight,  
+* Opportunities: funding calls, requests for collaborators, projects, training, meetings/conferences, etc.,  
+* Events: sharing ideas and news about events (in-person or virtual) taking place within our community and beyond,  
+* And, if we’re lucky, we might occasionally have a fun fact or joke to share!  
+
+Therefore, we will be thinking about and testing out the best tools and methods to keep this community engaged and connected – stay tuned!
+This first issue marks the beginning of a shared experiment.
+Many of us entered research with the hope that science would be reliable, self-correcting, cumulative, and collaborative. Yet daily practice often shows a different story: fragmented incentives, unclear decision-making, and insufficient collaboration efforts between researchers, institutions, funders and editors.
+With the understanding that meaningful change is a slow, iterative process requiring a shift in mindset, this newsletter aims to create a slower space where questions, ideas and news can be shared and examined honestly, without assuming that technical solutions alone will solve problems.
+As such, we encourage you to respond to this email, perhaps with any thoughts, ideas, or suggestions regarding this newsletter, or anything else that comes to mind. Or maybe you would like to submit content to cover in our next edition!
+
+See you tomorrow (Feb 10, 2026) at our monthly meeting!
+ 
+### Recent highlights from the field
+ 
+As part of the OSIRIS project (<https://osiris4r.eu/>), three policy briefs were developed to support more responsible, inclusive, and sustainable research practices. Tailored to key actors in the research ecosystem, the briefs translate project findings into targeted recommendations for journals and publishers, research institutions, and research funders.
+These policy briefs highlight the shared responsibility of these stakeholders in shaping research cultures and incentives. By addressing their distinct roles and challenges, the briefs aim to foster alignment across the system and encourage the uptake of responsible research and innovation principles beyond the lifespan of the project.
+Read more on OSIRIS Policy briefs here:
+
+* For journals and publishers:
+<https://osiris4r.eu/wp-content/uploads/2025/10/OSIRIS-Policy-Brief-for-Journals-and-Publishers.pdf>  
+* For research institutions:
+<https://osiris4r.eu/wp-content/uploads/2025/10/OSIRIS-Policy-Brief-for-Research-Institutions.pdf>  
+* For research funders:
+<https://osiris4r.eu/wp-content/uploads/2025/10/OSIRIS-Policy-Brief-for-Research-Funders.pdf>
+ 
+### Community submissions
+ 
+**Online networking event March 2026** -- The forthcoming MERRI online networking event will take place on March 18, 2026, from 17:00–18:00 CET, facilitated by MERRI contributors Rachel Heyard and Stephanie Zellers. The event offers an informal and interactive space for researchers at all career stages who are interested in meta-research, open science, and reproducibility. Participants will have the opportunity to engage in discussion, exchange perspectives and experiences, and connect with others working on improving research practices.
+
+More information and registration: <https://merricollaboration.github.io/events_page/events/online_networking_march_2026.html>
+ 
+**TIER2 project closing event** -- Since January 2023, the EC-funded TIER2 project has been investigating new tools, practices, and policy to boost the reproducibility of research in ways that are sensitive to diverse research contexts. At the conclusion of the project, all interested researchers, policy-makers, publishers, funders, infrastructure providers and others are invited to join the  closing symposium, to be held online on 11 February 2026, 14.00-18.00 CET. 
+
+More info and registration: <https://tier2-project.eu/events/tier2-final-event-future-reproducibility-research-and-policy>
+ 
+### Opportunities
+ 
+**CRS Seed Grants for “Research Synthesis and Meta-Research”** -- The CRS Seed Grants from the University of Zurich’s Center for Reproducible Science support early-stage projects in research synthesis and meta-research. With funding of CHF 5,000–20,000, the scheme aims to foster new collaborations, methodological innovation, and pilot work that can lead to larger grant applications, strengthening research on reproducibility and scientific practice in Switzerland.
+
+Detailed info:
+<https://www.crs.uzh.ch/en/news/2026-News/CRS-Seed-Grants.html>
+ 
+**Metascience research grants round 2 - For the attention of researchers working in the UK** -- Second round of the UKRI metascience research grant will be open soon.
+Call seeks proposals that deepen understanding of key issues shaping the R&D ecosystem, including the influence of artificial intelligence (AI) on scientific practice, optimal organisational design and leadership in research institutions, and advanced scientometric approaches to evaluating research excellence, efficiency and equity, and generate actionable insights for policymakers, funders and research organisations.
+Eligible researchers must be based at a UK research organisation eligible for UK Research and Innovation (UKRI) funding, however, collaborations with international researchers are strongly encouraged.
+Submission deadline is 23 April 2026, 4pm. Stay tuned for the forthcoming info webinar.
+
+More info: <https://www.ukri.org/opportunity/metascience-research-grants-round-2/>
+ 
+### Events (upcoming)
+**CIVICA Open Science Conference 2026** -- CIVICA, the European University of Social Sciences, unites ten leading European higher education and research institutions in the social sciences, humanities, business management and public policy. CIVICA Open Science Conference 2026 will be organized by the London School of Economics and Political Science (LSE) on 20 May 2026. Event invites researchers, professional services staff, and stakeholders from across the CIVICA alliance to explore how openness can transform research and education. The event welcomes contributions on themes like open educational resources, the intersection of open science and AI, data management and sharing, and open access monographs, in formats ranging from full papers to lightning talks and workshops.
+
+More info: <https://www.civica.eu/news-events/news-blog/detail/call-for-papers-civica-open-science-conference> and <https://www.civica.eu/news-events/events>
+ 
+**AIMOS 2026 Conference - Accelerate the Impact of Medical Research** -- 
+The 8th annual conference of the Australian „Association for Interdisciplinary Meta-Research and Open Science” (AIMOS) will be organized from 30 November to 2 December, 2026 in Wellington, NZ. Event is under organization,
+Stay tuned for more info at the AIMOS website: <https://aimos.community/>
+ 
+**FOR 2026 Conference** -- 
+The Future of Open Research 2026 Conference will take place from 4 to 6 May 2026 in Munich, Germany, bringing together scholars, activists, and policymakers to explore how open research can be shaped to better serve the public good. The event focuses on tailoring open research practices to diverse global contexts, addressing ethical, social, and equity challenges in knowledge production and sharing. As a key outcome, organizers expect to co-create the Munich Manifesto for Equitable Open Research that outlines pathways for trustworthy, inclusive, and responsible inquiry, with contributions welcomed from across all disciplines.
+Although abstract submission has closed, it is still possible to register without submitting an abstract.
+
+More info: <https://opensciencestudies.eu/for-2026-conference/>
+ 
+**MetaCRiSP 2026 – In the field of Security & Privacy** -- 
+As a side event of 47th IEEE Symposium on Security & Privacy, a metascience workshop will be organized in the specific field of security and privacy. Workshop will take place on 21 May 2026 in San Francisco, and invites contributions that examine research methods, peer review and evaluation processes, reproducibility, incentives, and ethical challenges within the security and privacy research community. Submission deadline is extended by 19 February.
+
+More info: <https://metacrisp.org/>
+ 
+### Events (past)
+**Hungarian Open Science Forum XIII**, the online event in the Hungarian Open Science Forum series, was held on 6 February 2026.  Event was organized by the University and National Library of Debrecen University and Pro-M. Discussions were structured around three thematic sessions of CoARA, EOSC infrastructure, as well as of national diamond open access infrastructure and MTMT3. A recording of the online event will be available soon.
+
+More info: <https://openscience.hu/esemeny/magyar-nyilt-tudomanyos-forum-xiii/>
+ 
+ 
+### Fun fact / Joke
+What is the definition of a “robust finding”?
+It is a result that survives peer review, replication, preregistration, reviewer #2, and the author rereading it a year later!
+
+
+### An invitation
+If you would like to:
+
+- write to us with questions about science that you can’t stop thinking about,  
+- share ideas about ideas that feel promising, under-examined, or conversely, overhyped,  
+- share info about relevant events, publications, etc. for us to share in our next newsletter…
+
+feel free to contact us (Monika Varga, varga.monika@uni-mate.hu, Fiona Ramage, fiona.ramage@univ-rennes.fr) or to respond to this email directly!

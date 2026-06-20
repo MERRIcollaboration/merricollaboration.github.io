@@ -1,0 +1,130 @@
+---
+title: "April 2026 -- 2nd MERRI Newsletter"
+format: html
+date: "04.13.2026"
+---
+
+Welcome to the second issue of the MERRI Community Newsletter
+
+### From the editors
+
+Welcome to the MERRI community, a collective of researchers with a shared interest in and passion for rigour and reproducibility, evidence synthesis, and related topics. Many of us come from the TIER2, iRISE, and OSIRIS projects, but we welcome any researchers or research staff of any discipline or career stage who share our values. 
+This newsletter opening draws inspiration from a recent paper of Munafò & Smith, published in PLOS Biology (<https://doi.org/10.1371/journal.pbio.3003660>).  
+
+Metaresearch has spent the last decade exposing the cracks in science. The uncomfortable question now is whether fixing these cracks was or is effective, or whether repairing them simply creates new ones elsewhere, leaving us in the same position as where we started. According to of Munafò & Smith, research reform increasingly resembles an “arms race,” where each methodological advance is quickly absorbed into the same incentive system that produced the original problems. As they address, it could happen that we “running constantly simply to stand still.” The authors discuss this view mostly in the context of their field of epidemiology, but, as they state in their perspective, the same issues are relevant in our own field of meta-research. 
+Tools meant to improve rigor (i.e. open data, causal inference, large datasets) can just as easily accelerate output without improving understanding when we apply them without thought and for the wrong reasons. Entire literature bases can emerge from the mechanical pairing of datasets and hypotheses, often with minimal theoretical grounding. The result is not just bias, but also excess: a growing volume of work with uncertain or even a negative net value. As Douglas Altman and other critics warned already in 1994, the problem is not only bad research, but too much research done for the wrong reasons (doi: <https://doi.org/10.1136/bmj.308.6924.283>). Nothing has changed in the past 8 years?
+
+The deeper issue is that metaresearch may have underestimated the resilience of the system it critiques. Biases are not isolated flaws; they are embedded across the research lifecycle, as emphasized by John P. A. Ioannidis (<https://doi.org/10.1371/journal.pbio.2005468>). Technical fixes such as improving transparency, a more conscious use of statistics, etc. are necessary and address one aspect of the issue, but they do not alter the incentives that shape researcher behavior. 
+If those incentives remain unchanged, reform risks becoming self-limiting: improvements are adopted, adapted, and ultimately neutralized. The challenge ahead is therefore not only methodological, but institutional. Metaresearch must confront how science allocates recognition, attention, and resources. Otherwise, it risks becoming part of the very excess it seeks to criticize. 
+The main question that emerged for us is whether, despite ongoing efforts, these challenges persist, and what the right direction might be for moving toward a more conscious and effective research ecosystem, and what the MERRI community can do to help move us in this direction. Therefore, this piece is intended as a prompt for reflection, and we welcome all of your responses and thoughts. 
+
+If you have further comments and thoughts about this topic, we encourage you to respond to this email. Also, other ideas or suggestions regarding forthcoming newsletter issues are welcome, feel free to submit content to cover in our next edition!
+
+See you at our next monthly meeting (April 14, 2026)! 
+
+### Recent highlights from the field 
+
+The Metascience Alliance has published a synthesis of their recent work to collect and interpret input from community members – needs, ideas, ambitions, and more. They have distilled this information into five themes that act as signals and potential directions for change. To list the themes: 
+
+* Coordination infrastructure: Making it easier for metascientists to find each other, collaborate, and learn from each other.  
+* Shared Learning and Synthesis: Helping stakeholders keep up, make sense of what metascience is, and translate insights into something usable.  
+* System-level Influence: Giving metascience a seat at the table – and helping metascientists speak with clarity, credibility, and coherence.  
+* Inclusion & Capacity Building: Broaden who gets to do metascience, strengthen the people who want to participate, and ensure the Alliance reflects the full diversity of research systems.  
+* Visible On-the-Ground Activity: Creating a visible movement: concrete things happening that bring people together, build energy, and make the Alliance feel alive. 
+
+Read the synthesis [here](https://www.cos.io/hubfs/Metascience%20Alliance_Synthesis%20Final%20V2.pdf) and learn how to get involved [here](https://www.cos.io/metascience-alliance). 
+
+
+### Community submissions
+
+**CoARA Experiments In Assessment Working Group - Launch of the Idea Catalogue Platform** --
+The CoARA Working Group “Experiments in Assessment” brings together a wide range of ideas for experimenting with new approaches to research assessment. Its goal is to collect, develop, and share these ideas with the research community to help advance responsible and innovative assessment practices. 
+After two years of collaborative work, the group is pleased to introduce the Idea Catalogue Platform. This new online resource gathers both proposed and existing experiments in research assessment in one place. The platform serves as a “one-stop shop” where research funding and research-performing organisations can explore potential experiments, discover inspiration for new initiatives, and learn from experiences shared by institutions that have already implemented assessment experiments. 
+
+The platform will launch with a webinar on April 27, 15:00-16:00 CEST
+
+
+### Opportunities
+
+**Support for Open Science Meetings – For the attention of researchers working in The Netherlands** -- 
+Open science funding opportunities remain active in 2026, with several accessible entry points for the community. Notably, the Open Science NL Open Science Meetings Call is currently open with an increased budget and a rolling deadline until 10 December 2026, supporting workshops, community events, and knowledge-sharing initiatives. 
+
+More info: <https://www.openscience.nl/en/calls/open-science-meetings-0>
+
+**Approaching deadline for metascience research grants round 2 - For the attention of researchers working in the UK** -- 
+Call seeks proposals that deepen understanding of key issues shaping the R&D ecosystem, including the influence of artificial intelligence (AI) on scientific practice, optimal organisational design and leadership in research institutions, and advanced scientometric approaches to evaluating research excellence, efficiency and equity, and generate actionable insights for policymakers, funders and research organisations. 
+Eligible researchers must be based at a UK research organisation eligible for UK Research and Innovation (UKRI) funding, however, collaborations with international researchers are strongly encouraged.
+
+Submission deadline is 23 April 2026, 4pm. 
+
+More info: <https://www.ukri.org/opportunity/metascience-research-grants-round-2/>
+
+** Virtual training opportunity: Explore Open Science with 4EU+ in 2026** -- 
+The 4EU+ Alliance invites PhD students, researchers, and staff to join its 2026 “Open for you!” training programme on open science. The series combines introductory webinars with six specialised workshops running from March to June, covering topics such as FAIR data, open peer review, open publishing models, and citizen science.
+Designed to respond to the growing demand for transparency, reproducibility, and collaboration in research, the programme offers participants practical insights into open science practices and the evolving research landscape.
+
+More info and list of upcoming workshops: <https://4euplus.eu/4EU-1245.html>
+
+### Events (upcoming)
+
+**In person: Meta Science for Methods Research (MSMR 2026)** -- 
+Growing concerns around reproducibility and research practices are increasingly affecting computational and statistical methods, from selective reporting to inconsistent evaluation standards. Addressing these challenges, the 1st Interdisciplinary Symposium on Meta Science for Methods Research (MSMR 2026) will take place on 31 August – 1 September 2026 in Zurich. 
+The meeting shifts the focus from developing new methods to examining how methodological research is conducted, evaluated, and incentivized. Bringing together experts from fields such as biostatistics, machine learning, econometrics, and beyond, the symposium will explore ways to improve transparency, reliability, and collaboration across disciplines. 
+The event will be held in a hybrid format, with on-site participation required for presenters. 
+Submission and registration will open shortly, please visit the conference website for further information: <https://crsuzh.pages.uzh.ch/msmr/>
+
+
+
+**In person: Enhance Your Science Writing Skills with ESO** --
+
+The European Southern Observatory is hosting its “Writing and Communicating your Science” workshop from 20–24 July 2026 in Munich, Germany. Aimed at researchers at all career stages, this in-person course focuses on developing essential skills for effectively communicating scientific work. 
+Participants will gain practical guidance on writing research papers, delivering engaging presentations, and preparing successful observing proposals, alongside insights into the publication and peer-review process. The workshop also emphasizes the increasing importance of clear, accessible science communication for both specialists and wider audiences.
+
+More info: <https://www.eso.org/sci/meetings/2026/science_writing26.html>
+
+
+
+**In person: For the attention of the multiphysics community: Multiphysics Meets Open Science** -- 
+
+The openCFS Annual Meeting 2026 will take place on 9–10 April 2026 at Graz University of Technology, bringing together academic and industry participants working in multiphysics modelling and finite element methods. 
+The event serves as an open forum to exchange experiences with openCFS and related open-source tools, highlighting practical applications, new developments, and emerging features. It also reflects a broader shift in the multiphysics community toward adopting open-source software as part of a growing commitment to open science—fostering transparency, collaboration, and reproducibility in computational research.
+
+More info: <https://opencfs.org>
+
+**Virtual event: Centre for Open Science - New Evidence on Reproducibility Across Social and Behavioral Research (Thursday, April 16 at 1 PM ET)** -- From COS: „Reproducibility is central to many conversations about research credibility—but what can recent large-scale studies actually tell us, especially when considered together? This webinar brings together researchers from the Center for Open Science (COS), the Institute for Replication (I4R), and the META-REP project to compare findings from three complementary efforts examining whether published results can be reproduced using the same data and methods across different research contexts.”
+
+Register here: <https://cos-io.zoom.us/webinar/register/WN_IuMaWllTRwOGOeWx7Y5B3g#/registration>
+
+**Virtual: Evidence Synthesis Ireland (ESI) 2-day online GRADE workshop (10-12th June 2026, 10AM-1PM)** -- ESI is hosting a two-day workshop on the GRADE methodology for evaluating the certainty of evidence. This methodology is the international standard and frequently used in evidence syntheses like systematic reviews. The workshop is designed to explain the principles of GRADE (including assessment steps and its impact), to allow participants to create an evidence profile for a therapeutic intervention based on a systematic review, and to allow attendees to gain a basic understanding of the GRADEpro GDT Software. They state: „Suitable for systematic review authors, guideline developers, health and social care professionals, academics, researchers, and postgraduate students.” Ticket prices: General: 100€, Student: 50€. 
+
+Register here: <https://lnkd.in/dZVbV4-g>
+
+
+### Events (past)
+
+MERRI recently hosted its second networking event! The organisers greeted a number of mostly early-career researchers, and over the course of an hour we got to know each other and each others’ work better through some structured discussion rooms, before splitting into two groups. These groups either had a general discussion on meta-analysis which went epistemic discussing the nature of evidence, or a larger group discussion to decide on how to continue to build the MERRI community, on events, and how we could gain as much as possible from this community. A lot of brainstorming took place, so watch this space to see how MERRI evolves over the next few months! 
+
+### Fun fact / Joke
+
+This isn’t a joke but a serious issue that generates unintentionally hilarious content: tortured phrases. These can arise in research papers when researchers improperly use AI-generated content, seemingly without checking output thoroughly, causing distorted phrases that lose (almost) all meaning. Science sleuth Elisabeth Bik recently made a post on the platform PubPeer on a paper testing a method to measure glucose levels in saliva detailing some… interesting… ones. Of note: 
+
+* Experience pain becomes feel extreme torment    
+* Invasive method becomes intrusive strategy   
+* Emotional stress becomes enthusiastic pressure    
+* Repeatedly collecting blood becomes “drearily gathering blood  
+* Fixed methods becomes rigid approaches  
+* Linear regression becomes direct relapse  
+* Analyze a signal becomes break down a flag    
+* Artificial noise becomes fake commotions  
+
+On that note, I need to get back to my dataset where I’m trying out a new direct relapse model…
+
+
+### An invitation
+If you would like to:
+
+- write to us with questions about science that you can’t stop thinking about,  
+- share ideas about ideas that feel promising, under-examined, or conversely, overhyped,  
+- share info about relevant events, publications, etc. for us to share in our next newsletter…
+
+feel free to contact us (Monika Varga, varga.monika@uni-mate.hu, Fiona Ramage, fiona.ramage@univ-rennes.fr) or to respond to this email directly!
