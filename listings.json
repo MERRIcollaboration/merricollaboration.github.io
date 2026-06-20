@@ -9,6 +9,14 @@
     ]
   },
   {
+    "listing": "/newsletter/index.html",
+    "items": [
+      "/newsletter/archiv/2026_02.html",
+      "/newsletter/archiv/2026_04.html",
+      "/newsletter/archiv/2026_06.html"
+    ]
+  },
+  {
     "listing": "/current_collaborators/index.html",
     "items": [
       "/current_collaborators/collaborators/adelie_ranville.html",
