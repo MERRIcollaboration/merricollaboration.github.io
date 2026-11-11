@@ -1,0 +1,126 @@
+---
+title: "September 2026 -- 4th MERRI Newsletter"
+format: html
+date: "09.07.2026"
+---
+
+
+**Welcome to the fourth issue of the MERRI Community Newsletter**
+
+ 
+
+### From the editors
+Welcome back to the MERRI community after the summer break!
+
+Inspired by first-hand experiences and discussions during and following this summer’s iEMSs ([International Environmental Modelling & Software society](https://conference.iemss.org/)) conference in Dublin, we would like to open this issue by reflecting on a development that is gaining momentum across research fields: the move towards shared standards for transparent, reproducible and reusable modelling.
+
+Discussions took place beyond the conference sessions themselves, for example during the 2026 Open Modeling Foundation (OMF) Members’ Council Meeting. A unanimous stance among attendees was the growing recognition of the need for shared standards and best practices. The OMF’s work aims to make computational models more accessible, understandable, reusable and interoperable across disciplines and modelling traditions.
+
+For those of us working in environmental modelling, this direction feels both familiar and significant. The ODD (Overview, Design Concepts, Details) protocol was originally developed to document agent-based ecological models, but the method has since been adopted and extended across disciplines and model types. Its evolution demonstrates how an approach originating in a single, specific research community can grow and reach other disciplines, gradually creating a broader shared language for describing, assessing and reusing diverse types of models.
+
+This work signals a broader movement. Communities that have often developed their own conventions independently are increasingly turning towards shared descriptions and interoperable resources, creating resources useful for different applications or even disciplines. Environmental modelling clearly values and contributes to this wider movement, but can this ethos be adopted by other disciplines?
+
+This also raises a question for MERRI colleagues: what information about our work - and in how much detail - must we document and share for others to genuinely understand, evaluate and reuse it? Does this differ for sharing within our discipline or sharing more broadly? We would be very interested to hear how these challenges appear in your own field.
+
+So, if you have further comments and thoughts about this topic, we encourage you to respond to this email.
+
+Also, other ideas or suggestions regarding forthcoming newsletter issues are welcome, feel free to submit content to cover in our next edition!
+
+Further reading:
+
+* [Twenty years of the ODD protocol](https://essopenarchive.org/doi/abs/10.22541/essoar.15005893/v1)
+
+* [Open Modeling Foundation](https://www.openmodelingfoundation.org/)
+
+See you tomorrow (Sept 8, 2026) at our monthly meeting!
+
+### Recent highlights from the field
+
+**Changes to OSF – The Center for Open Science (COS)**
+
+COS has announced a major change for The Open Science Framework (OSF), a popular open platform and repository for documenting, managing, and sharing research data. The move will remove several main functionalities (such as OSF Projects, data and code sharing, and private storage), to reduce and streamline its model and focus on integration with other platforms like Zenodo. This move can be explained in part by funding difficulties threatening platform sustainability. Existing projects will not be affected, but users will be unable to create or make substantial changes to projects from November 16th, 2026 and projects will become read-only after February 19th, 2027. This will likely greatly impact a lot of researchers’ workflows, and users are being encouraged to explore alternative platforms like Zenodo, Dryad, Dataverse, and Figshare, depending on required functionalities.
+
+More information here:
+
+* <https://www.cos.io/osf-changes>
+* <https://www.cos.io/blog/osf-changes-a-note-to-users>
+* <https://help.osf.io/article/727-osf-projects-transition>
+* <https://bsky.app/profile/cos.io/post/3muk5jh6bvb2a>
+
+### Community submissions
+**A new journal for metascience: Journal of Research on Research**
+
+Colleagues from the MERRI community have helped launch the Journal of Research on Research (J·ROR), a new international, peer-reviewed, open-access journal dedicated to understanding and improving how research is funded, organised, conducted, communicated and evaluated. Its broad scope includes topics such as metascience, Open Science, research integrity, peer review, research assessment and management, scientometrics, research culture, among other related fields. The journal welcomes empirical and conceptual contributions using qualitative, quantitative, mixed-methods, or simulation-based approaches. The editorial team particularly encourages members of the MERRI community to consider J·ROR for their future submissions.
+
+More information and submissions: <https://www.tandfonline.com/journals/rror20/about-this-journal>
+
+### Opportunities
+**Software Sustainability Institute Fellowship Programme 2027 -- primarily for UK-based applicants, with up to three places also available to international researchers**
+
+Applications are now open for the Software Sustainability Institute’s 2027 Fellowship Programme. The programme supports researchers, research software engineers, educators and advocates who want to improve computational practice in their field. Around 20 Fellows will be selected, including up to three international Fellows, each receiving a £4,000 budget to organise or attend relevant activities and promote good research software practices. Applications are welcome from all career stages and close on 5 October 2026.
+
+Learn more: <https://www.software.ac.uk/programmes/fellowship-programme/apply-fellowship-programme>
+
+**Last minute, but still open: COST Call 2026**
+
+The 2026 COST Open Call provides an opportunity to establish new international research and innovation networks in any scientific or technological field. COST Actions run for four years and support networking activities such as meetings, workshops, training schools, short-term scientific missions and knowledge exchange rather than the research itself. Up to 80 new COST Actions are expected to be funded. Proposals can be submitted until 28 October 2026.
+
+More info: <https://www.cost.eu/open-call-2026-whats-new/>
+
+**Call for volunteers: Join the TOP Guidelines Advisory Board**
+
+The Center for Open Science is seeking volunteers for the Transparency and Openness Promotion (TOP) Guidelines Advisory Board. Board members will help guide the continued development, implementation and dissemination of the TOP Guidelines, a policy framework designed to strengthen the transparency and verifiability of research. Applications and nominations are particularly welcome from people with expertise in open data, code and materials, data citation, preregistration, Registered Reports, or the implementation of research policies. The deadline for application or nomination of a colleague is 21 September 2026.
+
+More info: <https://www.cos.io/blog/call-for-volunteers-top-guidelines-advisory-board-2026>
+
+### Events (upcoming)
+
+**Online conference: Spilling the ReproducibiliTea: A Decade On & Decades Ahead**
+
+ReproducibiliTea will hold its first international online conference on 25 September 2026. The free one-day event will examine persistent challenges in research reproducibility, community-led responses and possible directions for the coming decade. The programme combines presentations, panel discussions and parallel journal clubs, with contributions from researchers, journal editors, Retraction Watch, FORRT and reproducibility networks from around the world. Registration is open, but places are limited.
+
+More info: <https://reproducibilitea.org/conference2026/>
+
+**FORRT AI in Metascience Online Conference**
+
+How is AI changing the way research is conducted, evaluated and understood? This pogramme of this free online conference, organized by FORRT on 28–30 September 2026, will consist of 33 submissions exploring the use of AI and large language models in metascience. Topics include AI in the research pipeline, evidence synthesis, the identification and conduct of replications and reproductions, and the evaluation and improvement of preregistrations. The final day will feature three hands-on workshops. Registration is now open and free of charge.
+
+More info: <https://forrt.org/ai-metascience/>
+
+**Beyond Open Access: Open Science Across the Entire Research Cycle**
+
+This online webinar, taking place on 6 October 2026, will explore Open Science as an approach extending across the whole research lifecycle rather than being limited to Open Access publishing. The session will cover preregistration, research design, open data, open methods, reproducible workflows and supporting infrastructures. Participation is open, and registration remains available until the day of the event. A recording will also be made available.
+
+More info: <https://www.ifla.org/events/beyond-open-access-open-science-across-the-entire-research-cycle/>
+
+**NRIN Happy Hour -- Monthly webinars of The Netherlands Research Integrity Network**
+
+The NRIN Happy Hour is a series of free monthly online webinars addressing research integrity, research ethics, Open Science and the responsible conduct of research. Usually held on the second Thursday of each month, the sessions provide an informal space for learning, discussion and exchange and are open to both the Dutch and international research communities. The next webinar, on 15 October 2026, will feature Sabine Kleinert from The Lancet discussing peer review integrity and the use of generative AI. On 12 November, Hub Zwart will examine consortium authorship and emerging authorship practices in team science. Registration is required separately for each webinar, and recordings are made available afterwards.
+
+More info and registration: <https://nrin.nl/nrin-happy-hour-2026/>
+
+**Cochrane Colloquium 2026: Living, Trusted, Transformed**
+
+The 2026 Cochrane Colloquium will take place in Kraków, Poland, on 8–10 December. The conference will bring together researchers, methodologists, policymakers, clinicians and others interested in producing and using trustworthy evidence. This year’s themes include responsible AI in evidence synthesis, living evidence ecosystems, methodological innovation, inclusive partnerships and strategies for addressing distrust in research. Registration is open, with standard registration available until 9 November 2026.
+
+More info: <https://colloquium-2026.cochrane.org/?mtm_campaign=Col-reg-news&mtm_medium=news-story>
+
+
+### MERRI-ly Scientific
+
+**505 ways to say “almost significant”**
+
+How creatively can researchers describe a result that does not cross the conventional p < 0.05 threshold? A meta-research study screened 567,758 randomised controlled trials published over 30 years for 505 such expressions. At least one was found in 49,134 articles (8.65%). The most popular examples included “marginally significant,” “all but significant,” and “a nonsignificant trend.” Among the p-values examined manually, the median was (perhaps unsurprisingly) 0.06.
+
+A gentle reminder that exact p-values, effect sizes and confidence intervals are usually more informative than creative ways of approaching significance.
+
+Source: Otte, W. M., Vinkers, C. H., Habets, P. C., van IJzendoorn, D. G. P., & Tijdink, J. K. (2022). Analysis of 567,758 randomized controlled trials published over 30 years reveals trends in phrases used to discuss results that do not reach statistical significance. PLOS Biology, 20(2), e3001562, <https://doi.org/10.1371/journal.pbio.3001562>
+
+### An invitation
+If you would like to:
+
+- write to us with questions about science that you can’t stop thinking about,  
+- share ideas about ideas that feel promising, under-examined, or conversely, overhyped,  
+- share info about relevant events, publications, etc. for us to share in our next newsletter…  
+
+feel free to contact us (Monika Varga, varga.monika@uni-mate.hu, Fiona Ramage, fiona.ramage@univ-rennes.fr) or to respond to this email directly!
